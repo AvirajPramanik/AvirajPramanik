@@ -48,9 +48,8 @@ no shortcuts, no fluff — just consistent reps.
 terminal game, clean logic, no bugs left behind
 
 </td>
-<td width="50%">
-</td>
-
+</tr>
+</table>
 
 > more drops coming as the ML roadmap progresses 🚀
 
