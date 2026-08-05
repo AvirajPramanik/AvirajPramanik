@@ -14,7 +14,7 @@
 
 ### 🧃 the tl;dr
 
-not gonna pretend i know it all — i'm a **first-year IT engineering student** learning in public and stacking skills on purpose:
+not gonna pretend i know it all — i'm a **second-year IT engineering student** learning in public and stacking skills on purpose:
 
 - 🧠 grinding toward **AI/ML engineering** — not chasing a trend, actually building the fundamentals first
 - 🐍 deep in **Python** right now (functions, recursion, comprehensions, exception handling — the unglamorous stuff that actually matters)
@@ -26,7 +26,7 @@ no shortcuts, no fluff — just consistent reps.
 
 ---
 
-### ⚙️ tech i actually use
+### ⚙️ tech I usually use
 
 <div align="center">
 
@@ -34,7 +34,7 @@ no shortcuts, no fluff — just consistent reps.
 
 </div>
 
-**current focus:** Data Structures & Algorithms · Python for ML · Problem Solving
+**current focus:** Data Structures & Algorithms in java(rookie lol) · Python for ML · Problem Solving
 
 ---
 
