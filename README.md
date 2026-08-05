@@ -76,9 +76,11 @@ OOP + game-state logic, scoped and queued up
 
 ### 🌱 the roadmap (no cap)
 Core Python ████████████████░░░░ in progress
+
 DSA ████████████░░░░░░░░ in progress
-CLI Projects ██████░░░░░░░░░░░░░░ ongoing
+
 ML Fundamentals ░░░░░░░░░░░░░░░░░░░░ next up
+
 Deep Learning ░░░░░░░░░░░░░░░░░░░░ planned
 
 ---
@@ -87,8 +89,8 @@ Deep Learning ░░░░░░░░░░░░░░░░░░░░ plann
 
 <div align="center">
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="(https://www.linkedin.com/in/aviraj-pramanik/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:avirajpramanik80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href=["(https://www.linkedin.com/in/aviraj-pramanik/)"](https://www.linkedin.com/in/aviraj-pramanik/)><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
