@@ -4,7 +4,7 @@
 
 ### turning coffee ~~and confusion~~ into code | future AI/ML engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=first-year+IT+engineer+%F0%9F%8E%93;grinding+DSA+%2B+Python+daily+%F0%9F%90%8D;building+in+public%2C+one+CLI+at+a+time+%E2%9A%A1;future+ML+engineer+loading...+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=second-year+IT+engineer+%F0%9F%8E%93;grinding+DSA+%2B+Python+daily+%F0%9F%90%8D;building+in+public%2C+one+CLI+at+a+time+%E2%9A%A1;future+ML+engineer+loading...+%F0%9F%A4%96" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=AvirajPramanik&label=Profile%20Views&color=a855f7&style=flat" alt="profile views" />
 
@@ -75,3 +75,26 @@ OOP + game-state logic, scoped and queued up
 ---
 
 ### 🌱 the roadmap (no cap)
+Core Python ████████████████░░░░ in progress
+DSA ████████████░░░░░░░░ in progress
+CLI Projects ██████░░░░░░░░░░░░░░ ongoing
+ML Fundamentals ░░░░░░░░░░░░░░░░░░░░ next up
+Deep Learning ░░░░░░░░░░░░░░░░░░░░ planned
+
+---
+
+### 📬 let's connect
+
+<div align="center">
+
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="(https://www.linkedin.com/in/aviraj-pramanik/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+
+*"consistency compounds — showing up daily beats going hard for a week and quitting."*
+
+</div>
+
