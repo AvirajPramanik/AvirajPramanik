@@ -16,7 +16,7 @@ not gonna pretend i know it all — i'm a **second-year IT engineering student**
 
 - 🧠 grinding toward **AI/ML engineering** — not chasing a trend, actually building the fundamentals first
 - 🐍 deep in **Python** right now (functions, recursion, comprehensions, exception handling — the unglamorous stuff that actually matters)
-- 🧩 pairing every concept with a real CLI project instead of just watching tutorials and vibing
+- 🧩 pairing every concept with a project instead of just watching tutorials and vibing
 - 🗾 also learning **Japanese** on the side because multitasking my brain apparently
 - 🎯 long-term target: DSA sharp enough + ML portfolio solid enough to compete for top-tier roles
 
