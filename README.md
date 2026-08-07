@@ -4,7 +4,7 @@
 
 ### turning coffee ~~and confusion~~ into code | aspiring AI/ML engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=second-year+IT+engineer+%F0%9F%8E%93;grinding+DSA+%2B+ML models+%F0%9F%90%8D;building+in+public%2C+one+Contribution+at+a+time+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=second-year+IT+engineer+%F0%9F%8E%93;grinding+DSA+%2B+ML+models+%F0%9F%90%8D;building+in+public%2C+one+CLI+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 
 </div>
 
